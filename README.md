@@ -11,4 +11,4 @@
 |  pe1   | pe1.py 、 pe1.pdf |子萱|
 |  pe2   | pe2.py 、 pe2.pdf 、 pe2_extra.py 、 pe2_extra.pdf |子萱|
 |  pe3   | pe3.py 、 pe3.pdf  |子萱|
-
+|   midterm1  | midterm1.py 、 midterm1.pdf  |子萱|
