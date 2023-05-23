@@ -10,6 +10,7 @@ def add_book():
     # your code here
     title, genre, price = input("Enter the title, genre, and price of the book (separated bt |): ").split("|")
     library[title] = genre, float(price)
+    print('Added %s to the library'%(title) )
     return True
     
 
